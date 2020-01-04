@@ -8,7 +8,7 @@ This was a group project for an Arduino microcontrollers class. We created a col
 * NeoPixels
 * SSD1306 OLED
 * LM7805 voltage regulator
-* 3 slide switch
+* 3-slide switch
 * 9V battery
 * resistors (470 Ω, 10 kΩ)
 * non-eletcrolytic capacitors (0.22 μF, 0.1 μF) (note: 0.22 μF can be replaced by 0.33 μF)
@@ -23,7 +23,7 @@ This was a group project for an Arduino microcontrollers class. We created a col
 ## Usage
 * Requires Arduino IDE for uploading code to the Arduino Uno. 
 * Install [u8glib](https://github.com/olikraus/u8glib/wiki) ([more info](http://wiki.sunfounder.cc/index.php?title=OLED-SSD1306_Module)) and [Adafruit NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) libraries.
-* Main body (housing electronics) and NeoPixels LED strip were attached to bike spokes (via zipties), and magnet to the bike frame. Reed switch and magnet should be in close proximity.
+* Main body (housing electronics) and NeoPixels LED strip were attached to bike spokes (via zipties). The reed switch should be attached externally on the main body and magnet to the bike frame. Reed switch and magnet should be in close proximity.
 
 ![Demo](https://github.com/dinalehienpham/BikeSpeedometer/blob/master/images/demo.gif)
 
