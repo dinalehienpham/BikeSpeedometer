@@ -2,6 +2,8 @@
 ## Description
 This was a group project for an Arduino microcontrollers class. We created a color-changing, wheel light bike speedometer that would show current MPH and light up green, yellow, or red if the user is biking fast, slowing down, or has stopped. Arduino code and Fritzing files for PCB included.
 
+<img src="https://github.com/dinalehienpham/BikeSpeedometer/blob/master/images/device.jpg" width="352" height="422">
+
 ## Materials List
 * Arduino Uno
 * reed switch and magnet
@@ -19,6 +21,9 @@ This was a group project for an Arduino microcontrollers class. We created a col
 
 ## Circuit
 ![](https://github.com/dinalehienpham/BikeSpeedometer/blob/master/images/breadboardcircuit.jpg)
+
+<img src="https://github.com/dinalehienpham/BikeSpeedometer/blob/master/images/electronics.jpg" width="375" height="442">
+Circuit assembled and soldered onto protoboard.
 
 ## Usage
 * Requires Arduino IDE for uploading code to the Arduino Uno. 
