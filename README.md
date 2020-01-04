@@ -1,3 +1,4 @@
+# Arduino Color-Changing Bike Wheel Speedometer
 ## Description
 This was a group project for an Arduino microcontrollers class. We created a color-changing, wheel light bike speedometer that would show current MPH and light up green, yellow, or red if the user is biking fast, slowing down, or has stopped. Arduino code and Fritzing files for PCB included.
 
@@ -23,6 +24,7 @@ This was a group project for an Arduino microcontrollers class. We created a col
 * Requires Arduino IDE for uploading code to the Arduino Uno. 
 * Install [u8glib](https://github.com/olikraus/u8glib/wiki) ([more info](http://wiki.sunfounder.cc/index.php?title=OLED-SSD1306_Module)) and [Adafruit NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) libraries.
 * Main body (housing electronics) and NeoPixels LED strip were attached to bike spokes (via zipties), and magnet to the bike frame. Reed switch and magnet should be in close proximity.
+
 ![Demo](https://github.com/dinalehienpham/BikeSpeedometer/blob/master/images/demo.gif)
 
 ### Additional notes
